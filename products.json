@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Aero wireless earbuds",
+    "price": "$49",
+    "image": "assets/sample-1.svg",
+    "link": "https://example.com/aero-earbuds",
+    "badge": "New"
+  },
+  {
+    "title": "Obsidian minimalist desk lamp",
+    "price": "$39",
+    "image": "assets/sample-2.svg",
+    "link": "https://example.com/obsidian-lamp"
+  },
+  {
+    "title": "Noir leather cardholder",
+    "price": "$29",
+    "image": "assets/sample-3.svg",
+    "link": "https://example.com/noir-cardholder",
+    "badge": "Best seller"
+  },
+  {
+    "title": "Lumen smart watch",
+    "price": "$79",
+    "image": "assets/sample-4.svg",
+    "link": "https://example.com/lumen-watch"
+  }
+]
