@@ -1,0 +1,9 @@
+{
+  "title": "Product name",
+  "price": "$00",
+  "image": "https://i.ibb.co/XXXXXXX/your-image.jpg",
+  "link": "https://your-affiliate-or-store-link.com",
+  "badge": "New",
+  "buttonText": "Shop now",
+  "active": true
+}

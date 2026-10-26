@@ -1,0 +1,12 @@
+{
+  "brandName": "ZONIX",
+  "logo": "assets/logo.svg",
+  "bio": "Curated essentials, tested and picked daily.",
+  "banner": {
+    "enabled": true,
+    "text": "Free shipping on your first order",
+    "code": "ZONIX10"
+  },
+  "footerNote": "Some links are affiliate links. We may earn a commission at no extra cost to you.",
+  "copyright": "© 2026 ZONIX"
+}
