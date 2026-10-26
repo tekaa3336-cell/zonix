@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="ZONIX">
+  <circle cx="100" cy="100" r="98" fill="#000"/>
+  <circle cx="100" cy="100" r="97" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="1"/>
+  <g fill="none" stroke="#fff" stroke-width="2.6" stroke-linejoin="miter">
+    <path d="M28 88H52L28 112H52"/>
+    <ellipse cx="76" cy="100" rx="13" ry="12"/>
+    <path d="M100 112V88L124 112V88"/>
+    <path d="M134 88V112"/>
+    <path d="M144 88L170 112M170 88L144 112"/>
+  </g>
+</svg>
